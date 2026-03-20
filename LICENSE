@@ -1,6 +1,10 @@
 MIT License
 
-Copyright (c) 2025 Mppx Contributors
+Copyright (c) 2025 CJ Avilla
+
+This project is a Ruby port of the official MPP SDK (https://github.com/mppx/mppx),
+originally created by the MPP team. All credit for the protocol design and original
+implementation belongs to the original authors.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
