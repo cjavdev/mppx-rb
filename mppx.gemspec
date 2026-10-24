@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.description = "Implements the Payment HTTP Authentication Scheme (HTTP 402) for payment-gated APIs."
   spec.homepage = "https://github.com/cjavdev/mppx-rb"
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 3.1"
+  spec.required_ruby_version = ">= 3.2"
 
   spec.metadata = {
     "homepage_uri" => spec.homepage,
